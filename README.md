@@ -1,4 +1,4 @@
 # gcm-project
-Wilter Rogerio Satake
+Wilter Satake
 Faculdade Impacta 
 DevOps
